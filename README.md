@@ -7,7 +7,7 @@ This API provides basic functionality for managing tasks in a to-do list.
 Ver. of **Python** used in development is **3.11**.
 
 To install all the packages needed for project, type:
-```console
+```shell
   $ pip install -r requirements.txt
 ```
 
