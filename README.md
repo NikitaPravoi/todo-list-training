@@ -2,6 +2,15 @@
 
 This API provides basic functionality for managing tasks in a to-do list.
 
+## Info
+
+Ver. of **Python** used in development is **3.11**.
+
+To install all the packages needed for project, type:
+```console
+  $ pip install -r requirements.txt
+```
+
 ## Authentication
 
 This API uses Basic Authentication. Provide your username and password when making requests.
