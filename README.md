@@ -110,7 +110,7 @@ This API uses Basic Authentication. Provide your username and password when maki
 ### 6. Toggle Task Completion
 
 - **URL:** `/todo/api/v1.0/tasks/<int:task_id>/toggle`
-- **Method:** `PUT`
+- **Method:** `PATCH`
 - **Description:** Toggle the completion status of an existing task from `false` to `true`.
 - **Authentication:** Required
 - **Response:**
